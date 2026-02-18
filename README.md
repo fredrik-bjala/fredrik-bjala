@@ -12,6 +12,7 @@ Gothic profile theme
 <h3 align="left">🩸 About Me</h3>
 
 - 🎓 I study **Computer Science** and **Information technology**
+- 📖 Currently doing my master in ICT Innovation
 - 🧠 Focused on Machine Learning & Data Science
 
 ---
