@@ -4,22 +4,21 @@
 Gothic profile theme
 -->
 
-<h1 align="center">🦇 I'm Fredrik</h1>
-<h3 align="center">Computer Science Student | ICT Innocation</h3>
+<h1 align="center"> I'm Fredrik</h1>
+<h3 align="center">Computer Science Student | ICT Innovation at KTH</h3>
 
 ---
 
 <h3 align="left">🩸 About Me</h3>
 
-- 🎓 I study **Computer Science**
+- 🎓 I study **Computer Science** and **Information technology**
 - 🧠 Focused on Machine Learning & Data Science
-- ⚙️ Building, breaking, and rebuilding systems
 
 ---
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fredrik bjälå ursäter" target="blank">
+<a href="https://www.linkedin.com/in/fredrik-bjälå-ursäter-54b565374/" target="blank">
 <img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="fredrik bjälå ursäter" 
