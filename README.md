@@ -106,6 +106,7 @@ alt="javascript" width="40" height="40"/>
 
 ---
 
+<!--10.>Monkey d Luffy / Eiichiro Oda in One piece<-->
 <p align="center">
-“Code is temporary. Architecture is eternal.”
+"It’s not about whether I can or not. I’m gonna do it because I want to." 
 </p>
