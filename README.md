@@ -28,15 +28,14 @@ Gothic profile theme
     width="40" />
   </a>
   <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com" target="blank">
+  <a href="fredde.ursater@gmail.com" target="blank">
     <img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-    alt="fredde.ursate@gmail.com" 
+    alt="Gmail" 
     height="30" 
     width="40" />
   </a>
 </p>
-
 ---
 
 <h3 align="left">⚔️ Languages & Tools </h3>
