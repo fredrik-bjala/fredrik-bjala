@@ -5,13 +5,13 @@ Gothic profile theme
 -->
 
 <h1 align="center"> I'm Fredrik</h1>
-<h3 align="center">Computer Science Student | ICT Innovation at KTH</h3>
+<h3 align="center">IT Student | ICT Innovation at KTH</h3>
 
 ---
 
 <h3 align="left">🩸 About Me</h3>
 
-- 🎓 I study **Computer Science** and **Information technology**
+- 🎓 I study **Information technology**
 - 📖 Currently doing my master in ICT Innovation
 - 🧠 Focused on Machine Learning & Data Science
 
