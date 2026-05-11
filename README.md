@@ -12,6 +12,7 @@ Gothic profile theme
 <h3 align="left">🩸 About Me</h3>
 
 - 🎓 I study **Information technology**
+- 🌎 I am based in Stockholm, Sweden
 - 📖 Currently doing my master in ICT Innovation
 - 🧠 Focused on Machine Learning & Data Science
 
@@ -32,8 +33,9 @@ Gothic profile theme
     alt="Gmail" 
     height="30" 
     width="40" />
-  </a>
+  </a> 
 </p>
+
 
 <h3 align="left">⚔️ Languages & Tools </h3>
 
