@@ -28,7 +28,7 @@ Gothic profile theme
   <!-- Gmail -->
   <a href="mailto:fredde.ursater@gmail.com" target="blank">
     <img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+    src="https://api.iconify.design/logos:google-gmail.svg" 
     alt="Gmail" 
     height="30" 
     width="40" />
