@@ -15,8 +15,6 @@ Gothic profile theme
 - 📖 Currently doing my master in ICT Innovation
 - 🧠 Focused on Machine Learning & Data Science
 
----
-
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <!-- LinkedIn -->
@@ -28,7 +26,7 @@ Gothic profile theme
     width="40" />
   </a>
   <!-- Gmail -->
-  <a href="fredde.ursater@gmail.com" target="blank">
+  <a href="mailto:fredde.ursater@gmail.com" target="blank">
     <img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
     alt="Gmail" 
@@ -36,7 +34,6 @@ Gothic profile theme
     width="40" />
   </a>
 </p>
----
 
 <h3 align="left">⚔️ Languages & Tools </h3>
 
