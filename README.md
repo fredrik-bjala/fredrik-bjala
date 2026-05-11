@@ -15,6 +15,7 @@ Gothic profile theme
 - 🌎 I am based in Stockholm, Sweden
 - 📖 Currently doing my master in ICT Innovation
 - 🧠 Focused on Machine Learning & Data Science
+- 📚 Book enjoyer 
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
